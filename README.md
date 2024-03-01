@@ -28,3 +28,5 @@
 
 &emsp; Para o bom fncionamento do código, o usuário deve utilizar o terminal do Visual Studio Code e insirir o seguinte comando: `python .\main.py comandos`, então selecionar o comando de sua preferência.
 Além disso, o usuario deve verificar se a porta de conecção do robô está de acordo com `COM7`, caso contrario, o mesmo deve ajustar a porta na linha 7 do código `main.py`. 
+
+&emsp; Link para vissualização do funcinamento do robô com a CLI: [https://drive.google.com/drive/folders/1P5iHXlY-GaSHtr8cx9iuKmdQoXDFhq9A?usp=sharing]()
